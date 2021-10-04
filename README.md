@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naraian-6432
 - 👀 I’m interested in creating High end programmes
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on social projects 
 - 📫 How to reach me rahuln.61375@gmail.com 
 
