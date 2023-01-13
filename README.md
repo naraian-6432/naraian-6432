@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @naraian-6432
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on social projects 
-- 📫 How to reach me rahuln.61375@gmail.com 
+- 📫 How to reach me gongiti.rahul@gmail.com
 
 <!---
 naraian-6432/naraian-6432 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
